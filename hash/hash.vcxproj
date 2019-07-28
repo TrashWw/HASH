@@ -76,6 +76,8 @@
   <PropertyGroup Label="UserMacros" />
   <ItemGroup>
     <ClInclude Include="hash.h" />
+    <ClInclude Include="hashManager.h" />
+    <ClInclude Include="HashToStore.h" />
     <ClInclude Include="SSD.h" />
   </ItemGroup>
   <ItemGroup>
